@@ -4,7 +4,7 @@ Web Crawler is a Python script designed to fetch URLs and check given domain nam
 
 ## Description
 
-This 
+The Web Crawler is a Python-based application designed to crawl web pages and retrieve URLs similar to web.archive.org. It provides functionalities to fetch URLs from specified hosts or a list of domains and to check the status of given domain names.
 
 ## Requirements
 
