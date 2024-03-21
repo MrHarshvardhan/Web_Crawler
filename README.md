@@ -45,6 +45,9 @@ To fetch URLs from a specific host:
 ```bash
 python web_crawler.py pull --host example.com
 ```
+```bash
+python web_crawler.py -d pull --host example.com
+```
 
 To fetch URLs from a list of domains:
 
